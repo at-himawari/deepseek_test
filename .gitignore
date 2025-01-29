@@ -32,6 +32,7 @@ venv.bak/
 .dmypy.json
 .pyre/
 .pytype/
+.deepseek/
 
 # React
 node_modules/
