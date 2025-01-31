@@ -53,3 +53,4 @@ yarn-error.log*
 .vscode/
 *.sublime-project
 *.sublime-workspace
+.webui_secret_key
